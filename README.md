@@ -4,11 +4,12 @@ Wordpress was used in the development of this project due to the fact that it is
 Technologies used:
 jQuery, php, css3, Boostrap, Wordpress CMS
 
-Security involved:
+Security implrementation involved:
 1. making sure that all plugins had recent release dates, and no known major security flaws.
 2. Obscuring the admin login paths
 3. Setting complex passwords
 4. Protecting hidden directories
+5. Adding an ssl certificate to the site
 
 Testing:
 Google Page Speed
